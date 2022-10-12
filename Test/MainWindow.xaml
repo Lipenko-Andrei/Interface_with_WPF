@@ -34,7 +34,7 @@
                         <!--Menu Titles-->
                         <TextBlock Text="Silver Club" Foreground="White" FontSize="22" FontWeight="SemiBold" DockPanel.Dock="Top" TextAlignment="Center" Margin="5 25 0 10"/>
                         <TextBlock Text="Members, France" Foreground="#d0bfff" FontSize="14" FontWeight="SemiBold" DockPanel.Dock="Top" TextAlignment="Center"/>
-                         <!--Menu Separator-->
+                        <!--Menu Separator-->
                         <Separator Margin="25" DockPanel.Dock="Top" Height="0.8" Background="#7e5fdc"/>
                         <!--Menu Buttons-->
                         <StackPanel DockPanel.Dock="Top">
@@ -78,13 +78,6 @@
                     </DockPanel>
                 </Border>
             </Grid>
-
-
-
-
-
-
-
         </Grid>
     </Border>
     <!--Main Section-->
